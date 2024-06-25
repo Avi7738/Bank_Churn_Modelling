@@ -14,7 +14,7 @@ Import Data:- The dataset is loaded into a pandas DataFrame.
 
 Describe Data:- Initial data exploration to understand the structure and summary statistics.
 
-Data Visualization:- Visualize the distribution of the target variable (Churn).
+Data Visualization:- Visualize the distribution of the target variabl.
 
 Data Preprocessing:- Dropping Unnecessary Columns: Removing columns that are not needed for the prediction.
 Encoding Categorical Variables: Converting categorical variables into numerical values.
