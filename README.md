@@ -24,8 +24,6 @@ Define Target Variable (y) and Feature Variables (X):- Separating the dataset in
 
 Train Test Split:- Splitting the dataset into training and testing sets.
 
-Modeling:- Training a logistic regression model.
-
 Model Evaluation:- Evaluating the model’s performance using confusion matrix, accuracy score, and classification report.
 
 Prediction:- Using the trained model to make predictions on new data.
